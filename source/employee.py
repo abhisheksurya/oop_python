@@ -3,14 +3,14 @@
 
 class Employee:
 
-    """
-    Description -
-    Constructor to initialize employee attributes
-    Parameters -
-    first_name: string, required
-    last_name: string, required
-    Returns -
-    NA
+    """Constructor to initialize employee attributes
+    
+    :param first_name: string, required last_name: string, required
+    :param [ParamName]: [ParamDescription], defaults to [DefaultParamVal]
+    :type [ParamName]: [ParamType](, optional)
+    :raises [ErrorType]: [ErrorDescription]
+    :return: [ReturnDescription]
+    :rtype: [ReturnType]
     """
 
     def __init__(self, first_name, last_name):

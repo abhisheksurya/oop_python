@@ -10,7 +10,11 @@ Welcome to oop_python's documentation!
    :maxdepth: 2
    :caption: Contents:
 
-   modules
+.. automodule::
+   :members:
+
+.. autoclass::
+.. autoexception::
 
 
 
